@@ -39,9 +39,9 @@ import cv2
 
 # Read the Image and convert to grayscale
 
-image = cv2.imread('bird.jpg',1)
+image = cv2.imread(r"C:\Users\admin\Downloads\Taj mahal.jpg",1)
 image = cv2.cvtColor(image,cv2.COLOR_BGR2RGB)
-image_gray = cv2.imread('bird.jpg',0)
+image_gray = cv2.imread(r"C:\Users\admin\Downloads\Taj mahal.jpg",0)
 
 # Use Global thresholding to segment the image
 
@@ -87,7 +87,7 @@ for i in range(0,9):
 
 ### Global Thresholding
 
-![Screenshot 2025-04-29 082637](https://github.com/user-attachments/assets/fd22bbd0-6825-4592-8ff5-1962956279c8)
+![Screenshot 2025-04-29 082415](https://github.com/user-attachments/assets/87759bcb-43d5-49a5-a044-0a6fc2388bef)
 
 ![Screenshot 2025-04-29 082415](https://github.com/user-attachments/assets/40309c0e-7727-4148-8f4b-8b3c148227be)
 
