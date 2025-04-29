@@ -87,7 +87,7 @@ for i in range(0,9):
 
 ### Global Thresholding
 
-![Screenshot 2025-04-29 082415](https://github.com/user-attachments/assets/87759bcb-43d5-49a5-a044-0a6fc2388bef)
+![Screenshot 2025-04-29 082355](https://github.com/user-attachments/assets/858b123c-0253-41e8-bc58-afbdce1f61a1)
 
 ![Screenshot 2025-04-29 082415](https://github.com/user-attachments/assets/40309c0e-7727-4148-8f4b-8b3c148227be)
 
